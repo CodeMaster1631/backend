@@ -1,0 +1,17 @@
+{
+  "name": "cherry",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "keywords": [
+    "backend",
+    "cherry",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "apurva",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
